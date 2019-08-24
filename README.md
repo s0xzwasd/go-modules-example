@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/simonireilly/go-modules-example/workflows/go/badge.svg)](https://github.com/simonireilly/go-modules-example/actions)
+[![Actions Status](https://github.com/simonireilly/go-modules-example/workflows/Go/badge.svg)](https://github.com/simonireilly/go-modules-example/actions)
 
 # Modules
 
