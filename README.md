@@ -1,7 +1,8 @@
+[![Actions Status](https://github.com/simonireilly/go-modules-example/workflows/go/badge.svg)](https://github.com/simonireilly/go-modules-example/actions)
+
 # Modules
 
 Its time to learn [go-modules! :fire:](https://blog.golang.org/using-go-modules)
-
 
 ## TL;DR (really read it all plz)
 
